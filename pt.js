@@ -2,7 +2,7 @@
 
     "nodatafound": "Nenhum arquivo encontrado.",
     "retrievingdata": "Restaurando arquivos.",
-    "datarestored": "Previously stored data successfully retrieved.",
+    "datarestored": "Ultimo arquivo salvo restaurado.",
     "greyuser": "Apenas cargos acima de Segurança podem Utilizar o bot.",
     "bouncer": "O EhBot não pode mover pessoas quando utilizado por seguranças.",
     "online": "/me %%BOTNAME%% v%%VERSION%% online!",

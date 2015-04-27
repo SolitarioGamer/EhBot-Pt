@@ -100,7 +100,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
     	version: "1.0.0",
         status: false,
-        botName: "EhAqui BOT",
+        botName: "EhBot",
         language: "portuguese",
         startupCap: 1, // 1-200
         startupVolume: 100, // 0-100

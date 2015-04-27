@@ -105,7 +105,7 @@
         startupCap: 1, // 1-200
         startupVolume: 100, // 0-100
         startupEmoji: false, // true ou false
-        chatLink: "https://rawgit.com/overallwarf47/EhAquiBOT/master/pt.json",
+        chatLink: "https://rawgit.com/SolitarioGamer/EhBot-Pt/master/pt.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,

@@ -98,13 +98,13 @@
     //Mudar as configurações padrões do bot e ter certeza que elas foram carregadas corretamente
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-    	version: "1.0.0",
+    	version: "1.0.3",
         status: false,
         botName: "EhBot",
         language: "portuguese",
-        startupCap: 1, // 1-200
+        startupCap: 100, // 1-200
         startupVolume: 100, // 0-100
-        startupEmoji: false, // true ou false
+        startupEmoji: true, // true ou false
         chatLink: "https://rawgit.com/SolitarioGamer/EhBot-Pt/master/pt.json",
         maximumAfk: 120,
         afkRemoval: true,
@@ -117,7 +117,7 @@
         cycleGuard: true,
         maximumCycletime: 10,
         voteSkip: true,
-        voteSkipLimit: 2,
+        voteSkipLimit: false,
         timeGuard: true,
         maximumSongLength: 6,
         autodisable: true,
@@ -135,17 +135,17 @@
         ],
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
-        motdEnabled: false,
+        motdEnabled: true,
         motdInterval: 5,
-        motd: "Mensagem temporária do dia",
+        motd: "Leia Sempre a Descrição da comunidade",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: null,
+        rulesLink: 'http://goo.gl/KTR6t2',
         themeLink: null,
         fbLink: 'https://www.facebook.com/EhAquiOficial',
-        youtubeLink: null,
+        youtubeLink: 'https://www.youtube.com/user/ehaqui',
         website: 'http://ehaqui.com/',
         intervalMessages: [],
         messageInterval: 5,

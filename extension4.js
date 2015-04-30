@@ -148,7 +148,7 @@
         youtubeLink: 'https://www.youtube.com/user/ehaqui',
         website: 'http://ehaqui.com/',
         intervalMessages: [],
-        messageInterval: 5,
+        messageInterval: 1,
         songstats: false,
         commandLiteral: "!",
         blacklists: {

@@ -10,7 +10,7 @@
     "welcome": "Bem vindo(a), @%%NAME%%",
     "welcomeback": "Bem vindo(a) de volta, @%%NAME%%",
     "songknown": "@%%NAME%%, essa música está no histórico.",
-    "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. Você precisa de permissão para tocar músicas longas.",
+    "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. tenha mais atenção com a duração de suas musicas.",
     "permissionownsong": "/me :up: @%%NAME%% tem permissão para tocar música de própria autoria!",
     "isblacklisted": "/me Essa música está na lista negra %%BLACKLIST%%! Pulando música...",
 
@@ -42,7 +42,7 @@
     "askskip": "@%%NAME%%, não peça skips.",
     "spam": "/me @%%NAME%%, não faça spam, por favor.",
     "roomadvertising": "@%%NAME%%, não poste link de outras comunidades, por favor.",
-    "adfly": "@%%NAME%%, por favor mude seu script autowoot. Nós sugerimos plugCubed: http://plugcubed.net/",
+    "adfly": "@%%NAME%%, por favor mude seu script autowoot. Nós sugerimos o OrigemWoot: http://origem-woot.com/",
 
     "validgiftags": "/me [@%%NAME%%] http://media.giphy.com/media/%%ID%%/giphy.gif [Tags: %%TAGS%%]",
     "invalidgiftags": "/me [@%%NAME%%] Tag inválida, tente algo diferente. [Tags: %%TAGS%%]",

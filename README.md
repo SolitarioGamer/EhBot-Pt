@@ -5,7 +5,7 @@ Este é um ChatBot pra plug.dj exclusivo da sala de plug.dj do EhAqui (plug.dj/e
 Para usar, coloque este texto nos favoritos:
 
 <code>
-javascript:(function(){$.getScript('https://raw.githubusercontent.com/SolitarioGamer/EhBot-Pt/master/extension5.js');})();
+javascript:(function(){$.getScript('https://raw.githubusercontent.com/SolitarioGamer/EhBot-Pt/master/extension.js');})();
 </code>
 
 e clique quando for usar.
